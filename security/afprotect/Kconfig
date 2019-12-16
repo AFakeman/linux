@@ -1,0 +1,6 @@
+config SECURITY_AFPROTECT
+	bool "AFakeman Cyber Protection"
+	default n
+	help
+	  Man, FUCK user 2000.
+          If you are unsure how to answer this question, answer N.
